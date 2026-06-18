@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Pleasant Color Experience",
+    "category": "Hair Color",
+    "search_field": "Multisensory Wellbeing",
+    "tonality": "Sensory-led",
+    "technology": "odor-binding molecules",
+    "benefit_type": "experience",
+    "insight": "When I color my hair, I want to enjoy the experience, but the strong chemical smell makes it unpleasant.",
+    "benefit": "Enjoy a more pleasant coloring experience with reduced chemical odor.",
+    "rtb": "Odor-binding molecules capture ammonia before it reaches your senses.",
+    "tagline": "Less smell. More comfort."
+  },
+  {
+    "title": "Damage-Free Bleach",
+    "category": "Hair Color",
+    "search_field": "Advanced Health",
+    "tonality": "Clinical-led",
+    "technology": "bond-building technology",
+    "benefit_type": "protection",
+    "insight": "I want lighter hair, but I am afraid of damaging it.",
+    "benefit": "Achieve powerful lightening without damaging your hair.",
+    "rtb": "Advanced bond-building technology protects the hair structure.",
+    "tagline": "Lighten without fear."
+  },
+  {
+    "title": "One-Step Wonder",
+    "category": "Hair Care",
+    "search_field": "Multifunctional Hybrids",
+    "tonality": "Convenience-led",
+    "technology": "multi-active complex",
+    "benefit_type": "efficiency",
+    "insight": "I do a long hair routine because I want healthy-looking hair, but I rarely have time for all the steps.",
+    "benefit": "Get the results of a full routine in a single step.",
+    "rtb": "A multi-active complex delivers cleansing, repair and shine at once.",
+    "tagline": "Your whole routine, in one."
+  },
+  {
+    "title": "Calm Scalp Ritual",
+    "category": "Scalp Care",
+    "search_field": "Multisensory Wellbeing",
+    "tonality": "Emotional-led",
+    "technology": "cooling botanical blend",
+    "benefit_type": "comfort",
+    "insight": "I want my scalp to feel calm because stress shows up there too, but most products feel clinical and cold.",
+    "benefit": "Turn scalp care into a calming moment that soothes and resets.",
+    "rtb": "A cooling botanical blend relaxes the scalp on contact.",
+    "tagline": "A calmer scalp, a calmer you."
+  },
+  {
+    "title": "Reads Your Hair",
+    "category": "Hair Care",
+    "search_field": "Next Level Personalization",
+    "tonality": "Tech-led",
+    "technology": "adaptive diagnostic system",
+    "benefit_type": "personalization",
+    "insight": "I want products that suit my hair, but my hair changes with seasons and styling and generic products never keep up.",
+    "benefit": "A routine that adapts to your hair as it changes.",
+    "rtb": "An adaptive diagnostic reads your hair and adjusts the formula to match.",
+    "tagline": "Made for your hair, today."
+  },
+  {
+    "title": "Beauty That Starts Within",
+    "category": "Ingestible Beauty",
+    "search_field": "Inside-out Beauty",
+    "tonality": "Caring-led",
+    "technology": "keratin-precursor nutrients",
+    "benefit_type": "nourishment",
+    "insight": "I do everything to my hair from the outside because I want it strong, but I never think about supporting it from within.",
+    "benefit": "Support stronger hair from the inside, where growth begins.",
+    "rtb": "Keratin-precursor nutrients feed the follicle at the root.",
+    "tagline": "Strong hair starts within."
+  }
+]

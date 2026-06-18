@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Multifunctional Hybrids",
+    "description": "Combining multiple benefits into one solution. Reducing steps, effort, and complexity.",
+    "keywords": ["efficiency", "multi-benefit", "low effort", "smart solution", "step reduction", "all-in-one"],
+    "angle": "step reduction, multi-benefit, low effort, smart efficiency",
+    "benefit_emphasis": "fewer steps, more outcomes, time saved",
+    "rtb_logic": "one mechanism credibly delivering several effects at once",
+    "tagline_style": "punchy, efficiency-forward, 'one move, many wins'"
+  },
+  {
+    "name": "Multisensory Wellbeing",
+    "description": "Enhancing emotional wellbeing through sensory experiences and rituals.",
+    "keywords": ["comfort", "sensory", "relaxation", "feel better", "ritual", "scent", "texture", "calm"],
+    "angle": "sensory comfort, emotional regulation, stress reduction, rituals, feel-better experience",
+    "benefit_emphasis": "how it feels, not just what it does",
+    "rtb_logic": "ingredients or formats that create the sensory effect (scent, warmth, texture)",
+    "tagline_style": "evocative, soft, experiential"
+  },
+  {
+    "name": "Advanced Health",
+    "description": "Treating hair as a health condition with scientific, clinical credibility.",
+    "keywords": ["clinical", "efficacy", "diagnosis", "treatment", "performance", "condition", "proven"],
+    "angle": "condition management, clinical credibility, efficacy, diagnosis/intervention logic",
+    "benefit_emphasis": "measurable improvement of a defined condition",
+    "rtb_logic": "clinical data, mechanism of action, dermatologist/lab credibility",
+    "tagline_style": "confident, precise, results-forward"
+  },
+  {
+    "name": "Inside-out Beauty",
+    "description": "Supporting beauty through internal and biological processes.",
+    "keywords": ["ingestibles", "healthspan", "biology", "lifecycle", "life phase", "prevention", "nourish"],
+    "angle": "life phase, biology-informed support, ingestibles, prevention/maintenance",
+    "benefit_emphasis": "beauty as an outcome of internal health over time",
+    "rtb_logic": "nutrients, biological pathways, life-stage science",
+    "tagline_style": "holistic, reassuring, long-horizon"
+  },
+  {
+    "name": "Next Level Personalization",
+    "description": "Adaptive, predictive and personalized solutions tailored to individual needs.",
+    "keywords": ["personalization", "adaptive", "smart", "individualized", "predictive", "context-aware"],
+    "angle": "adaptive systems, predictive personalization, context-aware routines",
+    "benefit_emphasis": "made for me, adjusts to my context",
+    "rtb_logic": "diagnostics, data, adaptive systems that read and respond to the individual",
+    "tagline_style": "modern, intelligent, 'made for you'"
+  }
+]

@@ -1,0 +1,70 @@
+{
+  "scale": "0-100",
+  "bands": {
+    "high": { "min": 70, "label": "Strong, clear and relevant" },
+    "medium": { "min": 45, "label": "Decent but improvable" },
+    "low": { "min": 0, "label": "Weak or unclear" }
+  },
+  "criteria": [
+    {
+      "key": "consumer_language",
+      "label": "Consumer Language",
+      "weight": 1.0,
+      "guidance": "Reads like a real person speaking, not a marketing deck or a spec sheet."
+    },
+    {
+      "key": "emotional_relevance",
+      "label": "Emotional Relevance",
+      "weight": 1.0,
+      "guidance": "Connects to a feeling, identity or tension the consumer actually cares about."
+    },
+    {
+      "key": "clarity",
+      "label": "Clarity",
+      "weight": 1.0,
+      "guidance": "Easy to follow on first read; no jargon, no overload."
+    },
+    {
+      "key": "coherence",
+      "label": "Coherence (Insight \u2194 Benefit \u2194 RTB)",
+      "weight": 1.4,
+      "guidance": "Benefit answers the insight; RTB supports the benefit; one shared idea runs through all three."
+    },
+    {
+      "key": "distinctiveness",
+      "label": "Distinctiveness",
+      "weight": 1.0,
+      "guidance": "Has a clear point of difference, not a generic 'better/improved' claim."
+    },
+    {
+      "key": "believability",
+      "label": "Believability of RTB",
+      "weight": 1.1,
+      "guidance": "The reason-to-believe makes the benefit credible using simple, intuitive logic."
+    },
+    {
+      "key": "strategic_fit",
+      "label": "Strategic Fit to Search Field",
+      "weight": 1.1,
+      "guidance": "Framing, angle and wording match the selected search field."
+    },
+    {
+      "key": "single_mindedness",
+      "label": "Single-mindedness / Focus",
+      "weight": 1.2,
+      "guidance": "One core message, not three competing ones."
+    },
+    {
+      "key": "tagline_fit",
+      "label": "Tagline Fit",
+      "weight": 0.9,
+      "guidance": "Short, memorable, and clearly tied to the concept direction."
+    },
+    {
+      "key": "overall_readiness",
+      "label": "Overall Screener Readiness",
+      "weight": 0.0,
+      "guidance": "Holistic judgement of how this would perform in a consumer concept screener. Computed, not independently scored."
+    }
+  ]
+}

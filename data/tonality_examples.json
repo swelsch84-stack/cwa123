@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Tech-led",
+    "description": "Strong focus on technology and innovation.",
+    "style": ["precise", "functional", "credible"],
+    "example_phrase": "advanced technology that adapts as you go"
+  },
+  {
+    "name": "Sensory-led",
+    "description": "Focus on feel, smell and experience.",
+    "style": ["emotional", "experiential", "soft"],
+    "example_phrase": "experience a new level of comfort"
+  },
+  {
+    "name": "Caring-led",
+    "description": "Focus on gentle care and protection.",
+    "style": ["reassuring", "supportive", "safe"],
+    "example_phrase": "gentle care that protects what matters"
+  },
+  {
+    "name": "Premium-led",
+    "description": "Elevated, high-end feel.",
+    "style": ["luxury", "refined", "aspirational"],
+    "example_phrase": "a new level of sophistication"
+  },
+  {
+    "name": "Clinical-led",
+    "description": "Evidence-first, dermatological credibility.",
+    "style": ["scientific", "measured", "authoritative"],
+    "example_phrase": "clinically shown to improve in 4 weeks"
+  },
+  {
+    "name": "Convenience-led",
+    "description": "Effortless, fast, fits into real life.",
+    "style": ["practical", "easy", "time-saving"],
+    "example_phrase": "one step, done in seconds"
+  },
+  {
+    "name": "Emotional-led",
+    "description": "Leads with feeling, confidence and identity.",
+    "style": ["warm", "empowering", "human"],
+    "example_phrase": "feel like the best version of you"
+  }
+]
